@@ -2,9 +2,9 @@
 # *-* coding: utf-8 *-*
 """Interaction with existing list & performing access functions."""
 
-from data import BALLETS
+import data
 
-BALLETS = BALLETS
+BALLETS = data.BALLETS
 
 del BALLETS[11]
 
