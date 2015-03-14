@@ -8,7 +8,7 @@ BALLETS = data.BALLETS
 
 del BALLETS[11]
 
-BALLETS[2] = 'Swan Lake'
+BALLETS[1] = 'Swan Lake'
 
 BALLETS.append('Herman Schmerman')
 
