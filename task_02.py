@@ -13,5 +13,3 @@ BALLETS[2] = 'Swan Lake'
 BALLETS.append('Herman Schmerman')
 
 BALLETS.extend(['Don Quixote', 'Sylvia'])
-
-print BALLETS

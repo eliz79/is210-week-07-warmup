@@ -2,6 +2,6 @@
 # *-* coding: utf-8 *-*
 """Working with tuples"""
 
-from data import DIRECTIONS
+import data
 
-DIRECTIONS = DIRECTIONS[:3] + ('West',)
+DIRECTIONS = data.DIRECTIONS[:3] + ('West',)
