@@ -6,4 +6,4 @@ ELEMENTS = (None, 'Hydrogen', 'Helium', 'Litium',
             'Beryllium', 'Boron', 'Carbon')
 
 OPERATIONS_ORDER = ['Parenthesis', 'Exponents', 'Multiplication',
-                    'Division', 'Addition', 'Subtration']
+                    'Division', 'Addition', 'Subtraction']
